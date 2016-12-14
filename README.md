@@ -1,0 +1,2 @@
+# random.html
+random-amp
